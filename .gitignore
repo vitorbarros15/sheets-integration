@@ -160,3 +160,4 @@ htmlcov/
 
 # pytest
 .pytest_cache/
+venv/
