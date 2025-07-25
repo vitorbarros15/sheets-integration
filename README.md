@@ -58,7 +58,7 @@ cp .env.example .env
 Edite o arquivo `.env` com suas configurações:
 
 ```env
-GOOGLE_CREDENTIALS_PATH=credentials/service-account.json
+GOOGLE_CREDENTIALS_PATH=credentials/sheets-integration-467001-cdd295836ffa.json
 SHEET_NAME=Academia
 DEBUG=True
 ```
